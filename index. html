@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Roni Steelzz SS Fabrications</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header class="header">
+
+<img src="logo.png" alt="Roni Steelzz Logo" class="logo">
+
+<div>
+
+<h1>RONI STEELZZ</h1>
+
+<p>SS FABRICATIONS</p>
+
+</div>
+
+</header>
+<nav>
+  <a href="#">Home</a>
+  <a href="#">Services</a>
+  <a href="#">Gallery</a>
+  <a href="#">About</a>
+  <a href="#">Contact</a>
+</nav>
+
+<section class="hero">
+
+<h2>Premium Stainless Steel Fabrication</h2>
+
+<p>
+SS Gates | Staircase | Balcony Glass | Glass Railings | Handrails
+</p>
+
+<a href="#contact" class="btn">Get Free Quote</a>
+
+<a href="https://wa.me/919629493820" class="btn2">
+WhatsApp Now
+</a>
+
+</section>
+
+<section class="services">
+
+<h2>Our Services</h2>
+
+<div class="card">
+<h3>SS Gates</h3>
+<p>Modern & Premium Gate Designs</p>
+</div>
+
+<div class="card">
+<h3>SS Staircase</h3>
+<p>Elegant Stainless Steel Staircases</p>
+</div>
+
+<div class="card">
+<h3>Balcony Glass</h3>
+<p>Stylish Glass Railings</p>
+</div>
+
+<div class="card">
+<h3>Handrails</h3>
+<p>Safety with Premium Finish</p>
+</div>
+
+</section>
+<section class="contact">
+    <h2>Contact Us</h2>
+
+    <p>📞 Call: 95003 78013</p>
+
+    <p>
+        💬 WhatsApp:
+        <a href="https://wa.me/919629493820" target="_blank">
+            Chat Now
+        </a>
+    </p>
+
+    <p>📍 Salem, Tamil Nadu</p>
+</section>
+<footer>
+<p>© 2026 Roni Steelzz SS Fabrications</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
+
